@@ -1,5 +1,6 @@
 ---
 title: Linux
+weight: 3
 ---
 
 To install on Linux:

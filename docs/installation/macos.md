@@ -1,5 +1,6 @@
 ---
 title: macOS
+weight: 2
 ---
 
 To install on macOS:
